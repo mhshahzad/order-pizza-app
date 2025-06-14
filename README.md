@@ -10,6 +10,15 @@ A simple React Native app for ordering pizza, built with Expo and TypeScript.
 - See your past orders
 - Splash screen on app launch
 
+## Screenshots
+
+<p align="center">
+  <img src="./screens/splash-screen.png" alt="Splash Screen" width="180"/>
+  <img src="./screens/menu-screen.png" alt="Menu Screen" width="180"/>
+  <img src="./screens/cart-screen.png" alt="Cart Screen" width="180"/>
+  <img src="./screens/order-screen.png" alt="Orders Screen" width="180"/>
+</p>
+
 ## Getting Started
 
 ### Prerequisites
@@ -46,15 +55,6 @@ Scan the QR code with the Expo Go app on your device, or run on an emulator.
 
 - Replace `assets/images/splash-icon.png` with your own splash image.
 - Edit the pizza menu and logic in `app/(tabs)/index.tsx`.
-
-## Screenshots
-
-<p align="center">
-  <img src="./screens/splash-screen.png" alt="Splash Screen" width="180"/>
-  <img src="./screens/menu-screen.png" alt="Menu Screen" width="180"/>
-  <img src="./screens/cart-screen.png" alt="Cart Screen" width="180"/>
-  <img src="./screens/order-screen.png" alt="Orders Screen" width="180"/>
-</p>
 
 ## License
 
